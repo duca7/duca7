@@ -1,5 +1,5 @@
 
-<a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=tokyonight" alt="Duc github stats" /></a>
+<a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>
 ### Hi I'm Duc, I'm Front-End developer 👋
 
 
@@ -18,17 +18,17 @@
 
 
 <a href="https://github.com/duca7/IT-Blog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=IT-Blog&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=IT-Blog&theme=dracula" />
 </a>
 
 <a href="https://github.com/duca7/Css-Art">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=Css-Art&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=Css-Art&theme=dracula" />
 </a>
 
 <a href="https://github.com/duca7/The-Vap-Coffee">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=The-Vap-Coffee&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=The-Vap-Coffee&theme=dracula" />
 </a>
 
 <a href="https://github.com/duca7/Students-Management">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=Students-Management&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=Students-Management&theme=dracula" />
 </a>
