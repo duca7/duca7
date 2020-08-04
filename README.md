@@ -3,7 +3,7 @@
 ### Hi I'm Duc, I'm Front-End developer 👋
 
 
-- 🔭 I’m currently working on ITSS Tranning.
+- 🔭 I’m currently working on ITSS Training.
 - 🌱 I’m currently learning Angualar, Nodejs...
 -  Sometime i draw something with Css 
 <br>
