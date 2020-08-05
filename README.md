@@ -1,5 +1,4 @@
 
-<a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>
 ### Hi I'm Duc, I'm Front-End developer 🙎‍♂
 
 
@@ -10,6 +9,8 @@
 - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕
 <br>
 
+
+<a href="https://github.com/duca7" style="width:100%"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>
 
 
 **Languages and Tools:**
