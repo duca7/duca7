@@ -2,13 +2,12 @@
                                                         ### Hi I'm Duc, I'm Front-End developer 🙎‍♂
 
 
-                                                      - 🔭 I’m currently working on ITSS Training.
+                                                       <p> 🔭 I’m currently working on ITSS Training </p>
                                                       - 🌱 I’m currently learning Angualar, Nodejs...
                                                       - 🌍 I really like backparking around world.
                                                       - 🎨 Sometime i draw something with Css 
                                                       - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕
-                                                        <br>
-
+                                                      
 
 <a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>
 
