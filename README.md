@@ -1,4 +1,4 @@
-<a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>                                               
+                                               
  ### Hi I'm Duc, I'm Front-End developer 🙎‍♂
  - 🔭 I’m currently working on ITSS Training
  - 🌱 I’m currently learning Angualar, Nodejs...
@@ -10,6 +10,10 @@
 <a href="https://www.facebook.com/huynhduc0112/">
  <img align="left"  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+ <a href="https://mail.google.com/mail/u/0/#inbox">
+ <img align="left"  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>                                                                                                                 
+                                                                                                                  
                                                
 <br>
 <br>
@@ -26,3 +30,4 @@
 
 <br>
 <br>
+<a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>
