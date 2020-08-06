@@ -6,31 +6,30 @@
  - 🎨 Sometime i draw something with Css.
  - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕
  
+### Connect with me:
+<a href="https://www.facebook.com/huynhduc0112/">
+ <img align="left"  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
                                                       
                                                       
-
-
+<br>
+<br>
 
 **Languages and Tools:**
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-<a href="https://github.com/duca7/IT-Blog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=IT-Blog&theme=dracula" />
-</a>
-
-<a href="https://github.com/duca7/Css-Art">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=Css-Art&theme=dracula" />
-</a>
-
-<a href="https://github.com/duca7/The-Vap-Coffee">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=The-Vap-Coffee&theme=dracula" />
-</a>
-
-<a href="https://github.com/duca7/Students-Management">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=duca7&repo=Students-Management&theme=dracula" />
-</a>
+<br>
+<br>
