@@ -30,4 +30,4 @@
 
 <br>
 <br>
-<a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>
+<a  href="https://github.com/duca7"><img align="left" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a>
