@@ -4,9 +4,7 @@
  - 🌍 I really like backparking around world.
  - 🎨 Sometime i draw something with Css.
  - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕ 
- <br>
- <br>
-
+ 
 ### Connect with me:
 <a href="https://www.facebook.com/huynhduc0112/">
  <img align="left"  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
