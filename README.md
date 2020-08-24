@@ -5,7 +5,7 @@
  - 🌍 I really like backparking around world.
  - 🎨 Sometime i draw something with Css.
  - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕
-  <a  href="https://github.com/duca7"><img align="left" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=dracula" alt="Duc github stats" /></a> 
+
 ### Connect with me:
 <a href="https://www.facebook.com/huynhduc0112/">
  <img align="left"  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
