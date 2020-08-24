@@ -1,10 +1,11 @@
-                               
  ### Hi I'm Duc, I'm Front-End developer 🙎‍♂
  - 🔭 I’m currently working on ITSS Training
  - 🌱 I’m currently learning Angualar, Nodejs...
  - 🌍 I really like backparking around world.
  - 🎨 Sometime i draw something with Css.
- - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕
+ - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕ 
+ <br>
+ <br>
 
 ### Connect with me:
 <a href="https://www.facebook.com/huynhduc0112/">
@@ -12,9 +13,7 @@
 </a>
  <a href="https://mail.google.com/mail/u/0/#inbox">
  <img align="left"  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>                                                                                                                 
-                                                                                                                  
-                                               
+</a>                                                                                                                                                                                                                                                          
 <br>
 <br>
 
@@ -27,8 +26,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
-
 
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
