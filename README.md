@@ -1,5 +1,4 @@
  ### Hi I'm Duc, I'm Front-End developer 🙎‍♂
- - 🔭 I’m currently working on ITSS Training
  - 🌱 I’m currently learning Angualar, Nodejs...
  - 🌍 I really like backparking around world.
  - 🎨 Sometime i draw something with Css.
