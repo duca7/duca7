@@ -1,5 +1,6 @@
  ### Hi I'm Duc, I'm Front-End developer 🙎‍♂
  - 🌱 I’m currently learning Angualar, Nodejs...
+  - 🌱 I’m currently doing some pratice Css and Flutter...
  - 🌍 I really like backparking around world.
  - 🎨 Sometime i draw something with Css.
  - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕ 
