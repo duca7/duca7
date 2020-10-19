@@ -4,13 +4,7 @@
  - 🌍 I am a natural born backpacker.
  - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕ 
  
-### Connect with me:
-<a href="https://www.facebook.com/huynhduc0112/">
- <img align="left"  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
- <a href="https://mail.google.com/mail/u/0/#inbox">
- <img align="left"  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>                                                                                                                                                                                                                                                          
+### Connect with me:                                                                                                                                                                                                                          
 <br>
 <br>
 
