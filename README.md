@@ -2,9 +2,7 @@
  - 🌱 I am currently learning TypeScript framework.
  - 🌱 I am currently doing Css and Flutter.
  - 🌍 I am a natural born backpacker.
- - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕ 
- 
-### Connect with me:                                                                                                                                                                                                                          
+ - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕                                    
 <br>
 <br>
 
