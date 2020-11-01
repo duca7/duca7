@@ -1,4 +1,5 @@
  ### Hi I'm Duc, I'm Front-End developer 🙎‍♂
+ <a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=tokyonight"/></a>
  - 🌱 I am currently learning TypeScript framework.
  - 🌱 I am currently doing Css and Flutter.
  - 🌍 I am a natural born backpacker.
