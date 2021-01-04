@@ -2,7 +2,7 @@
  <a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=tokyonight"/></a>
 
  - 🌍 I am a natural born backpacker.
- - Booking reading : The 3 mistake of my life - chetan bhagat
+ - Booking reading : History of the word
  - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕                                    
 <br>
 
