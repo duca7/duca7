@@ -1,20 +1,26 @@
- ### Hi I'm Duc 🙎‍♂
- <a href="https://github.com/duca7"><img align="right" src="https://github-readme-stats.vercel.app/api?username=duca7&show_icons=true&theme=tokyonight"/></a>
+![Metrics](https://metrics.lecoq.io/duca7?template=classic&languages=1&config.timezone=Asia%2FBangkok)
+name: Metrics
+on:
+  # Schedule updates
+  schedule: [{cron: "0 * * * *"}]
+  push: {branches: "master"}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
- - 🌍 I am a natural born backpacker.
- - Booking reading : History of the word
- - Food & Drink: 🍖 🍟🥩🍗🍕🍝🦞🦐🍮🍺☕                                    
-<br>
-
-**Languages and Tools:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duca7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+          # Options
+          user: duca7
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Bangkok
+          plugin_languages: yes
 
 
 
